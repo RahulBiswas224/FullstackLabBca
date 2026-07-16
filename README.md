@@ -1,34 +1,19 @@
 # Full Stack Development Lab - BCA 4th Semester
 
-This repository contains the laboratory assignments for the **Full Stack Development-1 (BCA47113(P))** course, Academic Session 2024-25, at Brainware University.
+Laboratory assignments for **Full Stack Development-1 (BCA47113-P)**, Academic Session 2024-25, conducted at Brainware University.
 
-## Project Structure
-Each experiment is documented as a standalone Node.js script.
+## 📋 Project Overview
+This repository contains a collection of Node.js and Express.js experiments designed to teach core backend concepts, including file system operations, module management, HTTP methods, and dynamic web server routing.
 
-| Experiment | Description |
-| :--- | :--- |
-| 1-10 | Core Node.js concepts (Modules, Buffers, FS, HTTP) |
-| 12-13 | HTTP Methods and Web Servers |
-| 14-15 | Express.js Routing, Middleware, and Static Files |
+## 📁 Repository Structure
+Each experiment is documented as a standalone Node.js script:
 
-## Prerequisites
-- [Node.js](https://nodejs.org/) (Latest LTS recommended)
-- [Git](https://git-scm.com/)
+- **Core Concepts:** Experiments 1-10 covering Node.js globals, `fs` module, Buffers, Local Modules, and NPM integration.
+- **Web Services:** Experiments 12-13 focused on RESTful HTTP methods and query parameter handling.
+- **Web Frameworks:** Experiments 14-15 utilizing Express.js for routing, static file serving, and middleware implementation.
 
-## Getting Started
+## 🚀 How to Run
 1. **Clone the repository:**
-   `git clone <your-repo-url>`
-   
-2. **Install dependencies (if applicable):**
-   `npm install`
-
-3. **Run an experiment:**
-   To run any script, use the Node command:
-   `node <filename>.js`
-
-## License
-This project is for academic purposes as part of the BCA curriculum.
-
----
-*Maintained by: Rahul   *
-*Student Code: BWU/BCA/23/224*
+   ```bash
+   git clone https://github.com/RahulBiswas224/FullstackLabBca.git
+   cd FullstackLabBca
